@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.4.1)
+  - SwiftyXMLParser (5.1.0)
+  - WaterDrops (0.1.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftyXMLParser (from `https://github.com/yahoojapan/SwiftyXMLParser.git`)
+  - WaterDrops
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - WaterDrops
+
+EXTERNAL SOURCES:
+  SwiftyXMLParser:
+    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
+
+CHECKOUT OPTIONS:
+  SwiftyXMLParser:
+    :commit: ec7f183642adf429babd867d1a38c5c6912408ba
+    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  SwiftyXMLParser: 23b5a9321a8adf72aae29046ea58c3d097b4ac17
+  WaterDrops: 8f28cad75a2770e24bc2f7688274273a9d92a289
+
+PODFILE CHECKSUM: 72699a625178d05e50c870515b60992a38057e10
+
+COCOAPODS: 1.10.1
